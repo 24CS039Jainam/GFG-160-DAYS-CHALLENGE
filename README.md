@@ -51,11 +51,12 @@ Each folder represents a **day** and contains:
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect!
 
-- 🐦 [Twitter/X](https://x.com/Jainam_Khetani) – I post daily updates with #100DaysOfCode
-- 💼 [LinkedIn](https://linkedin.com/in/jainam-khetani/) – Let’s connect and grow!
-- 🌐 [GFG Profile](https://www.geeksforgeeks.org/user/24csit17/). - Checkout my superb Aconsistency here!
+- <a href="https://x.com/Jainam_Khetani" target="_blank">🐦 Twitter/X</a> – I post daily updates with <code>#100DaysOfCode</code>  
+- <a href="https://linkedin.com/in/jainam-khetani/" target="_blank">💼 LinkedIn</a> – Let’s connect and grow!  
+- <a href="https://www.geeksforgeeks.org/user/24csit17/" target="_blank">🌐 GFG Profile</a> – Checkout my superb consistency here!  
+
 
 ---
 
