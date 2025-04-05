@@ -54,8 +54,8 @@ Each folder represents a **day** and contains:
 ## 🤝 Let’s Connect
 
 - 🐦 [Twitter/X](https://x.com/Jainam_Khetani) – I post daily updates with #100DaysOfCode
-- 💼 [LinkedIn](https://linkedin.com/jainam_khetani) – Let’s connect and grow!
-- 🌐 [GFG Profile](https://www.geeksforgeeks.org/user/24csit17/).
+- 💼 [LinkedIn](https://linkedin.com/in/jainam-khetani/) – Let’s connect and grow!
+- 🌐 [GFG Profile](https://www.geeksforgeeks.org/user/24csit17/). - Checkout my superb Aconsistency here!
 
 ---
 
