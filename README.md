@@ -43,20 +43,6 @@ Each folder represents a **day** and contains:
 
 ---
 
-## 🎯 Progress Tracker
-
-| Day | Problem | Status |
-|-----|---------|--------|
-| ✅ Day 1 | Reverse Array | Completed |
-| ✅ Day 2 | Missing Number | Completed |
-| ✅ Day 3 | Kth Largest | Completed |
-| ... | ... | ... |
-| 🔄 Day XX | Coming up... | In progress |
-
-Stay tuned for more! 🎬
-
----
-
 ## 📢 How You Can Help
 
 - ⭐ Star the repo if you like the effort!
@@ -67,9 +53,9 @@ Stay tuned for more! 🎬
 
 ## 🤝 Let’s Connect
 
-- 🐦 [Twitter/X](https://x.com) – I post daily updates with #100DaysOfCode
-- 💼 [LinkedIn](https://linkedin.com) – Let’s connect and grow!
-- 🌐 [GFG Profile](https://practice.geeksforgeeks.org/user/your-username)
+- 🐦 [Twitter/X](https://x.com/Jainam_Khetani) – I post daily updates with #100DaysOfCode
+- 💼 [LinkedIn](https://linkedin.com/jainam-khetani) – Let’s connect and grow!
+- 🌐 [GFG Profile]((https://www.geeksforgeeks.org/user/24csit17/))
 
 ---
 
