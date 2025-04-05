@@ -53,9 +53,9 @@ Each folder represents a **day** and contains:
 
 ## 🤝 Let’s Connect!
 
-- <a href="https://x.com/Jainam_Khetani" target="_blank">🐦 Twitter/X</a> – I post daily updates with <code>#100DaysOfCode</code>  
-- <a href="https://linkedin.com/in/jainam-khetani/" target="_blank">💼 LinkedIn</a> – Let’s connect and grow!  
-- <a href="https://www.geeksforgeeks.org/user/24csit17/" target="_blank">🌐 GFG Profile</a> – Checkout my superb consistency here!  
+- 🐦 [Twitter/X](https://x.com/Jainam_Khetani) _(opens in new tab)_  
+- 💼 [LinkedIn](https://linkedin.com/in/jainam-khetani/) _(opens in new tab)_  
+- 🌐 [GFG Profile](https://www.geeksforgeeks.org/user/24csit17/) _(opens in new tab)_  
 
 
 ---
